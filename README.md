@@ -8,7 +8,9 @@
 
 **Gist**
 
-- [max-intersection-points.js](https://gist.github.com/buzzcosm/6e7af1b83cdedf7c845b7b1a29364735)
+✍️ [Creating gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+- [max-intersection-points.js](https://gist.github.com/buzzcosm/6e7af1b83cdedf7c845b7b1a29364735) 🦎
 
 ## TODOs 📝
 
