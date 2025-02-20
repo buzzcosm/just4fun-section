@@ -12,6 +12,10 @@
 
 - [max-intersection-points.js](https://gist.github.com/buzzcosm/6e7af1b83cdedf7c845b7b1a29364735) 🦎
 
+## Java
+
+- [Apache FTPClient Integration Example](https://github.com/buzzcosm/ftp-client-integration-example)
+
 ## TODOs 📝
 
 ### Try out `payload`
